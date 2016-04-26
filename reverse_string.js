@@ -10,4 +10,4 @@ function reverseString(str) {
   return str.split('').reverse().join('');
 }
 
-reverseString('hello');
+reverseString('hello'); // returns 'olleh'
